@@ -8,4 +8,6 @@ Required libraries:
 * sklearn
 * tensorflow
 * jupyter
-* 
+
+To experience interactive plots, please go to
+https://nbviewer.jupyter.org/github/kstanski/time-seq-explorer/blob/master/test.ipynb
